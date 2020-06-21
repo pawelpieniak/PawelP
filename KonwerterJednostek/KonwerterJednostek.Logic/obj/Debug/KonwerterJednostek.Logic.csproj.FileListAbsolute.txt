@@ -1,0 +1,15 @@
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\KonwerterJednostek.Logic.dll
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\KonwerterJednostek.Logic.pdb
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.csprojAssemblyReference.cache
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.dll
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.pdb
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\KonwerterJednostek.Logic.dll.config
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\EntityFramework.xml
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Użytkownik\Source\Repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.csproj.CopyComplete
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.Migrations.InitialCreate.resources
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.csproj.GenerateResource.cache
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek.Logic\obj\Debug\KonwerterJednostek.Logic.Migrations.Star.resources
