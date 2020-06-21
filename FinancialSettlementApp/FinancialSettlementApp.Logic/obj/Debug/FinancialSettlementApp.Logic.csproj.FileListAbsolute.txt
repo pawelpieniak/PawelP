@@ -1,0 +1,15 @@
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\FinancialSettlementApp.Logic.dll
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\FinancialSettlementApp.Logic.pdb
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.csprojAssemblyReference.cache
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.dll
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.pdb
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\FinancialSettlementApp.Logic.dll.config
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\EntityFramework.xml
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.csproj.CopyComplete
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.Migrations.InitialCreate.resources
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.csproj.GenerateResource.cache
+C:\Users\Użytkownik\source\repos\FinancialSettlementApp\FinancialSettlementApp.Logic\obj\Debug\FinancialSettlementApp.Logic.Migrations.ChangedstringinsteadcharinCost.resources

@@ -1,0 +1,7 @@
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\bin\Debug\KonwerterJednostek.exe.config
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\bin\Debug\KonwerterJednostek.exe
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\bin\Debug\KonwerterJednostek.pdb
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\obj\Debug\KonwerterJednostek.csprojAssemblyReference.cache
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\obj\Debug\KonwerterJednostek.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\obj\Debug\KonwerterJednostek.exe
+C:\Users\Użytkownik\source\repos\JiPP2020L\KonwerterJednostek\KonwerterJednostek\obj\Debug\KonwerterJednostek.pdb
